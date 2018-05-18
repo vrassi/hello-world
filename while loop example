@@ -1,7 +1,7 @@
 def loop(beers)
   counter = beers
   while counter > 0
-    print("Bottles of beer on the wall: " + srt(countr))
+    print("Bottles of beer on the wall: " + srt(counter))
     counter + counter - 1
   print("No more wall of the beer!")
 loop(5)
